@@ -4,7 +4,7 @@
  ========================================================================== */
 /*
  * 1. Normalizes default `font-family` and sets `font-size` here to support `rem` units
- * 2. Prevents iOS text size adjust after orientation change, without disabling user zoom
+ * 2. Prevents iOS text size adjust after orientation change, without disabling pilot zoom
  * 3. Style
  */
 html {
