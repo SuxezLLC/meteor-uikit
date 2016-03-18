@@ -1,6 +1,6 @@
 Package.describe({
     name: 'suxez:uikit',
-    version: '2.24.3',
+    version: '2.25.0',
     // Brief, one-line summary of the package.
     summary: 'Meteor wrapper for UIkit.',
     // URL to the Git repository containing the source code for this package.
@@ -48,6 +48,7 @@ Package.onUse(function (api) {
         'uikit/js/components/form-password.js',
         'uikit/js/components/form-select.js',
         'uikit/js/components/grid.js',
+        'uikit/js/components/grid-parallax.js',
         'uikit/js/components/htmleditor.js',
         'uikit/js/components/lightbox.js',
         'uikit/js/components/nestable.js',
