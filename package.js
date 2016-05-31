@@ -1,6 +1,6 @@
 Package.describe({
     name: 'suxez:uikit',
-    version: '2.26.3r1',
+    version: '2.26.3_2',
     // Brief, one-line summary of the package.
     summary: 'Meteor wrapper for UIkit.',
     // URL to the Git repository containing the source code for this package.
