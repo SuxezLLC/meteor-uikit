@@ -1,5 +1,5 @@
 fortawesome:fontawesome@4.5.0
-local-test:suxez:uikit@2.26.2
-meteor@1.1.10
-suxez:uikit@2.26.2
-underscore@1.0.4
+local-test:suxez:uikit@2.26.3
+meteor@1.1.14
+suxez:uikit@2.26.3
+underscore@1.0.8
